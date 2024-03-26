@@ -11,8 +11,7 @@ public class SimpleAlgorithms {
     public static let sharedInstance = SimpleAlgorithms()
     
     private init(){
-        
-    }
+        }
     
     public func fibonacci(_ n: Int) -> Int {
         var a = 1
